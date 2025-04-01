@@ -36,13 +36,13 @@ The purpose of this project is to analyze the Google Play Store dataset to uncov
 
 ## Visualizations
 ### 1. Total Installs by Category
-![Bar Chart](visuals/bar_chart_installs_by_category.png)
+![Bar Chart]([visuals/bar_chart_installs_by_category.png](https://github.com/uabhanu/google-play-analysis/raw/main/visuals/bar_chart_installs_by_category.png)
 
 ### 2. Distribution of Ratings
-![Histogram](visuals/histogram_ratings_distribution.png)
+![Histogram]([visuals/](https://github.com/uabhanu/google-play-analysis/raw/main/visuals/histogram_ratings_distribution.png)
 
 ### 3. Reviews vs. Installs
-![Scatterplot](visuals/scatterplot_reviews_vs_installs.png)
+![Scatterplot]([visuals/](https://github.com/uabhanu/google-play-analysis/raw/main/visuals/scatterplot_reviews_vs_installs.png)
 
 ---
 
